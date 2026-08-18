@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+pydantic>=2
+openai
+jupyter
+ipykernel
